@@ -74,11 +74,12 @@
 
 | التطبيق       | الفيديو الأصلي                    | بعد تطبيق YOLO                   |
 | ------------- | --------------------------------- | -------------------------------- |
-| مراقبة الحشود | ![](docs/gifs/crowd_before.gif)   | ![](docs/gifs/crowd_after.gif)   |
-| عدّ المركبات  | ![](docs/gifs/traffic_before.gif) | ![](docs/gifs/traffic_after.gif) |
-| عدّ التفاح    | ![](docs/gifs/apple_before.gif)   | ![](docs/gifs/apple_after.gif)   |
-| إشارات المرور | ![](docs/gifs/sign_before.gif)    | ![](docs/gifs/sign_after.gif)    |
-| كشف السكين    | ![](docs/gifs/threat_before.gif)  | ![](docs/gifs/threat_after.gif)  |
+| عدّ المركبات | ![1 Before](gifs/1before.gif)   | ![1 After](gifs/1after.gif)   |
+| مراقبة الحشود  | ![2 Before](gifs/2before.gif) | ![2 After](gifs/2after.gif) |
+|  كشف السكين     |![3 Before](gifs/3before.gif)   | ![3 After](gifs/3after.gif)   |
+| إشارات المرور | ![4 After](gifs/4before.gif)    | ![4 After](gifs/4after.gif)   |
+|عدّ التفاح    | ![5 After](gifs/5before.gif)  | ![5 After](gifs/5after.gif)  |
+|  عدّ المركبات 2 | ![6 After](gifs/6before.gif)  | ![6 After](gifs/6after.gif)  |
 
 > الصور المتحركة (GIF) مضغوطة لأغراض العرض فقط.
 
