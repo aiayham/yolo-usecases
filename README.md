@@ -71,15 +71,14 @@
 ## 🎬 عرض مرئي للتطبيقات
 
 فيما يلي مقارنة بين الفيديو الأصلي ونتيجة الكشف باستخدام YOLO:
-
-| التطبيق       | الفيديو الأصلي                    | بعد تطبيق YOLO                   |
-| ------------- | --------------------------------- | -------------------------------- |
-| عدّ المركبات | ![1 Before](https://s13.gifyu.com/images/bv7Mc.gif)   | ![1 After](https://s13.gifyu.com/images/bv7MW.gif)   |
-| مراقبة الحشود  | ![2 Before](https://s13.gifyu.com/images/bv7MR.gif) | ![2 After](https://s13.gifyu.com/images/bv7M6.gif) |
-|  كشف السكين     |![3 Before](https://s13.gifyu.com/images/bv7MC.gif)   | ![3 After](https://s13.gifyu.com/images/bv7M0.gif)   |
-| إشارات المرور | ![4 After](https://s13.gifyu.com/images/bv7Mj.gif)    | ![4 After](https://s13.gifyu.com/images/bv7M8.gif)   |
-|عدّ التفاح    | ![5 After](https://s13.gifyu.com/images/bv7Mi.gif)  | ![5 After](https://s13.gifyu.com/images/bv7M4.gif)  |
-|  عدّ المركبات 2 | ![6 After](https://s13.gifyu.com/images/bv7Mg.gif)  | ![6 After](https://s13.gifyu.com/images/bv7MF.gif)  |
+| التطبيق | قبل | بعد |
+|---|---:|---:|
+| عدّ المركبات | <img src="https://s13.gifyu.com/images/bv7Mc.gif" width="280"> | <img src="https://s13.gifyu.com/images/bv7MW.gif" width="280"> |
+| مراقبة الحشود | <img src="https://s13.gifyu.com/images/bv7MR.gif" width="280"> | <img src="https://s13.gifyu.com/images/bv7M6.gif" width="280"> |
+| كشف السكين | <img src="https://s13.gifyu.com/images/bv7MC.gif" width="280"> | <img src="https://s13.gifyu.com/images/bv7M0.gif" width="280"> |
+| إشارات المرور | <img src="https://s13.gifyu.com/images/bv7Mj.gif" width="280"> | <img src="https://s13.gifyu.com/images/bv7M8.gif" width="280"> |
+| عدّ التفاح | <img src="https://s13.gifyu.com/images/bv7Mi.gif" width="280"> | <img src="https://s13.gifyu.com/images/bv7M4.gif" width="280"> |
+| عدّ المركبات 2 | <img src="https://s13.gifyu.com/images/bv7Mg.gif" width="280"> | <img src="https://s13.gifyu.com/images/bv7MF.gif" width="280"> |
 
 > الصور المتحركة (GIF) مضغوطة لأغراض العرض فقط.
 
