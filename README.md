@@ -74,12 +74,12 @@
 
 | التطبيق       | الفيديو الأصلي                    | بعد تطبيق YOLO                   |
 | ------------- | --------------------------------- | -------------------------------- |
-| عدّ المركبات | ![1 Before](gifs/1before.gif)   | ![1 After](gifs/1after.gif)   |
-| مراقبة الحشود  | ![2 Before](gifs/2before.gif) | ![2 After](gifs/2after.gif) |
-|  كشف السكين     |![3 Before](gifs/3before.gif)   | ![3 After](gifs/3after.gif)   |
-| إشارات المرور | ![4 After](gifs/4before.gif)    | ![4 After](gifs/4after.gif)   |
-|عدّ التفاح    | ![5 After](gifs/5before.gif)  | ![5 After](gifs/5after.gif)  |
-|  عدّ المركبات 2 | ![6 After](gifs/6before.gif)  | ![6 After](gifs/6after.gif)  |
+| عدّ المركبات | ![1 Before](https://s13.gifyu.com/images/bv7Mc.gif)   | ![1 After](https://s13.gifyu.com/images/bv7MW.gif)   |
+| مراقبة الحشود  | ![2 Before](https://s13.gifyu.com/images/bv7MR.gif) | ![2 After](https://s13.gifyu.com/images/bv7M6.gif) |
+|  كشف السكين     |![3 Before](https://s13.gifyu.com/images/bv7MC.gif)   | ![3 After](https://s13.gifyu.com/images/bv7M0.gif)   |
+| إشارات المرور | ![4 After](https://s13.gifyu.com/images/bv7Mj.gif)    | ![4 After](https://s13.gifyu.com/images/bv7M8.gif)   |
+|عدّ التفاح    | ![5 After](https://s13.gifyu.com/images/bv7Mi.gif)  | ![5 After](https://s13.gifyu.com/images/bv7M4.gif)  |
+|  عدّ المركبات 2 | ![6 After](https://s13.gifyu.com/images/bv7Mg.gif)  | ![6 After](https://s13.gifyu.com/images/bv7MF.gif)  |
 
 > الصور المتحركة (GIF) مضغوطة لأغراض العرض فقط.
 
