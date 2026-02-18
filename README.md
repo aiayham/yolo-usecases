@@ -70,18 +70,34 @@
 
 ## 🎬 عرض مرئي للتطبيقات
 
+
 فيما يلي مقارنة بين الفيديو الأصلي ونتيجة الكشف باستخدام YOLO:
-| التطبيق | قبل | بعد |
-|---|---:|---:|
-| عدّ المركبات | <img src="https://s13.gifyu.com/images/bv7Mc.gif" width="280"> | <img src="https://s13.gifyu.com/images/bv7MW.gif" width="280"> |
-| مراقبة الحشود | <img src="https://s13.gifyu.com/images/bv7MR.gif" width="280"> | <img src="https://s13.gifyu.com/images/bv7M6.gif" width="280"> |
-| كشف السكين | <img src="https://s13.gifyu.com/images/bv7MC.gif" width="280"> | <img src="https://s13.gifyu.com/images/bv7M0.gif" width="280"> |
-| إشارات المرور | <img src="https://s13.gifyu.com/images/bv7Mj.gif" width="280"> | <img src="https://s13.gifyu.com/images/bv7M8.gif" width="280"> |
-| عدّ التفاح | <img src="https://s13.gifyu.com/images/bv7Mi.gif" width="280"> | <img src="https://s13.gifyu.com/images/bv7M4.gif" width="280"> |
-| عدّ المركبات 2 | <img src="https://s13.gifyu.com/images/bv7Mg.gif" width="280"> | <img src="https://s13.gifyu.com/images/bv7MF.gif" width="280"> |
+
+### عدّ المركبات
+قبل: <img src="https://s13.gifyu.com/images/bv7Mc.gif" width="360">
+بعد: <img src="https://s13.gifyu.com/images/bv7MW.gif" width="360">
+
+### مراقبة الحشود
+قبل: <img src="https://s13.gifyu.com/images/bv7MR.gif" width="360">
+بعد: <img src="https://s13.gifyu.com/images/bv7M6.gif" width="360">
+
+### كشف السكين
+قبل: <img src="https://s13.gifyu.com/images/bv7MC.gif" width="360">
+بعد: <img src="https://s13.gifyu.com/images/bv7M0.gif" width="360">
+
+### إشارات المرور
+قبل: <img src="https://s13.gifyu.com/images/bv7Mj.gif" width="360">
+بعد: <img src="https://s13.gifyu.com/images/bv7M8.gif" width="360">
+
+### عدّ التفاح
+قبل: <img src="https://s13.gifyu.com/images/bv7Mi.gif" width="360">
+بعد: <img src="https://s13.gifyu.com/images/bv7M4.gif" width="360">
+
+### عدّ المركبات 2
+قبل: <img src="https://s13.gifyu.com/images/bv7Mg.gif" width="360">
+بعد: <img src="https://s13.gifyu.com/images/bv7MF.gif" width="360">
 
 > الصور المتحركة (GIF) مضغوطة لأغراض العرض فقط.
-
 ---
 
 ## 🎥 الوسائط والمصادر
