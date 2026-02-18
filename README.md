@@ -74,28 +74,28 @@
 فيما يلي مقارنة بين الفيديو الأصلي ونتيجة الكشف باستخدام YOLO:
 
 ### عدّ المركبات
-قبل: <img src="https://s13.gifyu.com/images/bv7Mc.gif" width="360">
-بعد: <img src="https://s13.gifyu.com/images/bv7MW.gif" width="360">
+قبل: <img src="before-after-gifs/1before.gif" width="360">
+بعد: <img src="before-after-gifs/1after.gif" width="360">
 
 ### مراقبة الحشود
-قبل: <img src="https://s13.gifyu.com/images/bv7MR.gif" width="360">
-بعد: <img src="https://s13.gifyu.com/images/bv7M6.gif" width="360">
+قبل: <img src="before-after-gifs/2before.gif" width="360">
+بعد: <img src="before-after-gifs/2after.gif" width="360">
 
 ### كشف السكين
-قبل: <img src="https://s13.gifyu.com/images/bv7MC.gif" width="360">
-بعد: <img src="https://s13.gifyu.com/images/bv7M0.gif" width="360">
+قبل: <img src="before-after-gifs/3before.gif" width="360">
+بعد: <img src="before-after-gifs/3after.gif" width="360">
 
 ### إشارات المرور
-قبل: <img src="https://s13.gifyu.com/images/bv7Mj.gif" width="360">
-بعد: <img src="https://s13.gifyu.com/images/bv7M8.gif" width="360">
+قبل: <img src="before-after-gifs/4before.gif" width="360">
+بعد: <img src="before-after-gifs/4after.gif" width="360">
 
 ### عدّ التفاح
-قبل: <img src="https://s13.gifyu.com/images/bv7Mi.gif" width="360">
-بعد: <img src="https://s13.gifyu.com/images/bv7M4.gif" width="360">
+قبل: <img src="before-after-gifs/5before.gif" width="360">
+بعد: <img src="before-after-gifs/5after.gif" width="360">
 
 ### عدّ المركبات 2
-قبل: <img src="https://s13.gifyu.com/images/bv7Mg.gif" width="360">
-بعد: <img src="https://s13.gifyu.com/images/bv7MF.gif" width="360">
+قبل: <img src="before-after-gifs/6before.gif" width="360">
+بعد: <img src="before-after-gifs/6after.gif" width="360">
 
 > الصور المتحركة (GIF) مضغوطة لأغراض العرض فقط.
 ---
