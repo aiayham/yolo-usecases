@@ -1,0 +1,21 @@
+# venv
+venv/
+.venv/
+.claude
+# python cache
+usecases/__pycache__/
+__pycache__/
+*.pyc
+
+# outputs
+runs/
+outputs/
+*.log
+
+# weights
+yolo_weights/
+*.pt
+*.onnx
+
+# misc
+structure.txt
