@@ -13,7 +13,7 @@ outputs/
 *.log
 
 # weights
-yolo_weights/
+yolo_weights/yolov8x-worldv2.pt
 *.pt
 *.onnx
 
