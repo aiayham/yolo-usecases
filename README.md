@@ -72,12 +72,12 @@
 
 | التطبيق | قبل | بعد |
 |----------|------|------|
-| عدّ المركبات | <img src="before-after-gifs/1before.gif" width="260"> | <img src="before-after-gifs/1after.gif" width="260"> |
-| مراقبة الحشود | <img src="before-after-gifs/2before.gif" width="260"> | <img src="before-after-gifs/2after.gif" width="260"> |
-| كشف السكين | <img src="before-after-gifs/3before.gif" width="260"> | <img src="before-after-gifs/3after.gif" width="260"> |
-| إشارات المرور | <img src="before-after-gifs/4before.gif" width="260"> | <img src="before-after-gifs/4after.gif" width="260"> |
-| عدّ التفاح | <img src="before-after-gifs/5before.gif" width="260"> | <img src="before-after-gifs/5after.gif" width="260"> |
-| عدّ المركبات 2 | <img src="before-after-gifs/6before.gif" width="260"> | <img src="before-after-gifs/6after.gif" width="260"> |
+| عدّ المركبات | <img src="before-after-gifs/1before.gif" width="200"> | <img src="before-after-gifs/1after.gif" width="200"> |
+| مراقبة الحشود | <img src="before-after-gifs/2before.gif" width="200"> | <img src="before-after-gifs/2after.gif" width="200"> |
+| كشف السكين | <img src="before-after-gifs/3before.gif" width="200"> | <img src="before-after-gifs/3after.gif" width="200"> |
+| إشارات المرور | <img src="before-after-gifs/4before.gif" width="200"> | <img src="before-after-gifs/4after.gif" width="200"> |
+| عدّ التفاح | <img src="before-after-gifs/5before.gif" width="200"> | <img src="before-after-gifs/5after.gif" width="200"> |
+| عدّ المركبات 2 | <img src="before-after-gifs/6before.gif" width="200"> | <img src="before-after-gifs/6after.gif" width="200"> |
 
 
 > الصور المتحركة (GIF) مضغوطة لأغراض العرض فقط.
